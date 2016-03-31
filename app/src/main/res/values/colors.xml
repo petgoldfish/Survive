@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="card1">#7B1FA2</color>
+    <color name="card2">#FF5722</color>
+    <color name="card3">#00796B</color>
+    <color name="card4">#212121</color>
+    <color name="white">#FFFFFF</color>
+</resources>
